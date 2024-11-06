@@ -10,7 +10,3 @@ Absen   : 16
 Hasil Praktikum 1 :
 ![alt text](image.png)
 
-2. Gabungkan hasil praktikum 1 dengan hasil praktikum 2 sehingga setelah melakukan pengambilan foto, dapat dibuat filter carouselnya!
-3. Jelaskan maksud void async pada praktikum 1?
-4. Jelaskan fungsi dari anotasi @immutable dan @override ?
-5. Kumpulkan link commit repository GitHub Anda kepada dosen yang telah disepakati!
